@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sample Constraint Layout</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">password</string>
+    <string name="bsignin">sign-In</string>
+    <string name="button">Button</string>
+</resources>
